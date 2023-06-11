@@ -3,7 +3,7 @@
 </a>
 
 # Explainability tools medical diagnosis
-Project work for the MAI4CAREU organization, done in collaboration with University of Cyprus.
+Project work for the MAI4CAREU organization, done in collaboration with University of Bologna and University of Cyprus.
 
 ![image](https://github.com/daniele-marini/Explainability_tools_medical_diagnosis/blob/main/black-box.png)
 
