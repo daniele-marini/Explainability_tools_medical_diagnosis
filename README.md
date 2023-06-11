@@ -12,7 +12,7 @@ Understading the behaviour behind a machine learning model is extremely useful f
 * allow us to identify issues of the model
 * identify biases in the dataset
 
-In this project, we will focus on the first point, as user trust is extremely important for the application of deep learning in the health sector.
+In this project, we will focus on the first point, as user trust is extremely important for the application of deep learning in the medical sector.
 
 # Authors
 * Daniele Marini
