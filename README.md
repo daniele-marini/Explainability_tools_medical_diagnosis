@@ -1,11 +1,11 @@
-<a target="_blank" href="https://colab.research.google.com/github/DANIELEMARINI99/Explainability_tools_medical_diagnosis/blob/main/Grad_CAM.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/daniele-marini/Explainability_tools_medical_diagnosis/blob/main/Grad_CAM.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 # Explainability tools medical diagnosis
 Project work for the MAI4CAREU organization, done in collaboration with University of Cyprus.
 
-![image](https://github.com/DANIELEMARINI99/Explainability_tools_medical_diagnosis/blob/main/black-box.png)
+![image](https://github.com/daniele-marini/Explainability_tools_medical_diagnosis/blob/main/black-box.png)
 
 Understading the behaviour behind a machine learning model is extremely useful for many reasons:
 * enhance the trust and the confidence of the users
@@ -45,7 +45,7 @@ The model used for the classification is ResNet50, which has been fine tuned by 
 # Results
 The results of the experiment were highly satisfactory, demonstrating a remarkable ability to accurately localize the tumor's exact region as we can see in figure below.
 
-![image](https://github.com/DANIELEMARINI99/Explainability_tools_medical_diagnosis/blob/main/comparison.png)
+![image](https://github.com/daniele-marini/Explainability_tools_medical_diagnosis/blob/main/comparison.png)
 
 
 
